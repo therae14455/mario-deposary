@@ -1,0 +1,1 @@
+{ "player": {"x":50,"y":300,"speed":5}, "blocks":[{"x":0,"y":350,"width":800,"height":50}, {"x":200,"y":300,"width":50,"height":50}], "enemies":[{"x":400,"y":300,"type":"goomba"}], "coins":[{"x":150,"y":320}, {"x":350,"y":320}], "powerups":[{"x":500,"y":300,"type":"mushroom"}] }
